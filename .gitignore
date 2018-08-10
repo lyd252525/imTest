@@ -1,0 +1,5 @@
+
+*.lock
+
+iTalker\.idea
+iTalker\build
